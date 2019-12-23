@@ -1,7 +1,8 @@
+package leetcode.simple.roman_to_integer;
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+public class Solution {
   public static void main(String[] args) {
     String input = "LVIII";
     Map<Character, Integer> map = new HashMap();
