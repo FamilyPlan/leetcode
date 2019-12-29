@@ -1,4 +1,4 @@
-package merge_wwo_sorted_lists;
+package merge_two_sorted_lists;
 
 public class Solution {
   public static void main(String[] args) {
